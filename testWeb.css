@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 14px;
+}
+
+.dark {
+    background-color: black;
+    color: aliceblue;
+}
+
